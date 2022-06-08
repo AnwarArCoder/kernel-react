@@ -1,0 +1,59 @@
+/* :: Header */
+.header {
+    height: 100vh;
+    background-image: url(../../assets/images/header/01_header.jpg);
+    color: #FFF;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.header .banner .top-handline {
+    line-height: 23px;
+    font-weight: 700;
+    font-size: 14px;
+    margin-bottom: 12px;
+}
+.header .banner .handline {
+    color: #FFF;
+    text-transform: uppercase;
+    font-weight: 800;
+    line-height: 1.2;
+    font-size: 44px;
+    margin-bottom: 24px;
+}
+.header .banner p{
+text-transform: capitalize;
+    font-size: 18px;
+    color: rgb(248, 248, 248);
+    font-weight: 600;
+    line-height: 27px;
+    margin-bottom: 30px;
+}
+@media (max-width: 991px) {
+    /* :: Header */
+    .header .banner .handline{
+        font-size: 38px;
+    }
+}
+/* :: Small devices */
+@media (max-width: 768px) {
+    
+    /* :: Header */
+    .header .banner .handline {
+        font-size: 32px;
+    }
+}
+/* :: Extra small devices */
+@media (max-width: 575px) {
+    
+    /* :: Header */
+    .header .banner .handline {
+        font-size: 28px;
+    }
+    .header .banner p{
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+}

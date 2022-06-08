@@ -1,0 +1,381 @@
+{
+    "static" : [
+        {
+			"id": 1,
+			"count": "350",
+			"nameCount": "Awards"
+        },
+		{
+			"id": 2,
+			"count": "498",
+			"nameCount": "Happy Clients"
+        },
+		{
+			"id": 3,
+			"count": "390",
+			"nameCount": "Project Done"
+        },
+		{
+			"id": 4,
+			"count": "994",
+			"nameCount": "Cup Of Tea"
+        }
+    ],
+
+    "exp" : [
+        {
+			"id": 1,
+			"title": "Facebook INC",
+			"details": "UI/UX Designer",
+			"date": "2012-2013"
+        },
+		{
+			"id": 2,
+			"title": "Google INC",
+			"details": "UI/UX Designer",
+			"date": "2013-2014"
+        },
+		{
+			"id": 3,
+			"title": "Twitter INC",
+			"details": "UI/UX Designer",
+			"date": "2014-2015"
+        },
+		{
+			"id": 4,
+			"title": "Instagram INC",
+			"details": "UI/UX Designer",
+			"date": "2015-2016"
+        }
+    ] ,
+    "edu" : [
+        {
+			"id": 1,
+			"title": "New York University",
+			"details": "Computer Science",
+			"date": "2009-2010",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+		{
+			"id": 2,
+			"title": "Stanford University",
+			"details": "Specialization Course",
+			"date": "2010-2011",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+		{
+			"id": 3,
+			"title": "Twitter INC",
+			"details": "UI/UX Designer",
+			"date": "2014-2015",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+		{
+			"id": 4,
+			"title": "New York University",
+			"details": "Bachelor Degree",
+			"date": "2011-2012",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        }
+    ] ,
+    "skills" : [
+        {
+			"id": 1,
+			"name": "Html/Css"
+        },
+		{
+			"id": 2,
+			"name": "Js/jQuery"
+        },
+		{
+			"id": 3,
+			"name": "Bootstrap"
+        },
+		{
+			"id": 4,
+			"name": "Php/MYsql"
+        },
+		{
+			"id": 5,
+			"name": "Wordpress"
+        }
+    ] ,
+    "coreFeatures" : [
+        {
+			"id": 1,
+			"name": "Grid & Layout"
+        },
+		{
+			"id": 2,
+			"name": "Photo Manipulation Skills"
+        },
+		{
+			"id": 3,
+			"name": "Photo Composition"
+        },
+		{
+			"id": 4,
+			"name": "Digital Painting"
+        },
+		{
+			"id": 5,
+			"name": "Web Usability"
+        },
+		{
+			"id": 6,
+			"name": "E-Commerce Platform"
+        },
+		{
+			"id": 7,
+			"name": "Google Analythics & SEO"
+        },
+		{
+			"id": 8,
+			"name": "Color Theory Knowledge"
+        },
+		{
+			"id": 9,
+			"name": "Valid HTNL5/CSS3"
+        },
+		{
+			"id": 10,
+			"name": "Awesome Unique Design"
+        },
+		{
+			"id": 11,
+			"name": "Latest Bootstrap"
+        },
+		{
+			"id": 12,
+			"name": "Performance & Quality"
+        }
+    ] ,
+    "services" : [
+        {
+			"id": 1,
+			"icon": "lnr lnr-crop",
+			"number": "01",
+			"title": "Design",
+			"details": "Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been standard dummy."
+        },
+		{
+			"id": 2,
+			"icon": "lnr lnr-code",
+			"number": "02",
+			"title": "Development",
+			"details": "Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been standard dummy."
+        },
+		{
+			"id": 3,
+			"icon": "lnr lnr-camera item-icon",
+			"number": "03",
+			"title": "Graphic",
+			"details": "Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been standard dummy."
+        },
+		{
+			"id": 4,
+			"icon": "lnr lnr-laptop-phone",
+			"number": "04",
+			"title": "Web Design",
+			"details": "Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been standard dummy."
+        },
+		{
+			"id": 5,
+			"icon": "lnr lnr-smartphone",
+			"number": "05",
+			"title": "Mobile Apps",
+			"details": "Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been standard dummy."
+        },
+		{
+			"id": 6,
+			"icon": "lnr lnr-rocket item-icon",
+			"number": "06",
+			"title": "Branding",
+			"details": "Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been standard dummy."
+        }
+    ] ,
+    "process" : [
+        {
+			"id": 1,
+			"icon": "lnr lnr-crop",
+			"number": "01",
+			"title": "Discuss&Plan",
+			"details": "Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been standard dummy."
+        },
+		{
+			"id": 2,
+			"icon": "lnr lnr-code",
+			"number": "02",
+			"title": "Design&Develop",
+			"details": "Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been standard dummy."
+        },
+		{
+			"id": 3,
+			"icon": "lnr lnr-camera item-icon",
+			"number": "03",
+			"title": "Test&Launch",
+			"details": "Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been standard dummy."
+        }
+    ] ,
+    "portfolio" : [
+        {
+			"id": 1,
+			"calssName": "col-md-6 col-lg-4 mix illustration",
+			"image": "../assets/images/portfolio/01_portfolio.jpg",
+			"title": "Illustration",
+			"alt": "01 Portfolio"
+        },
+		{
+			"id": 2,
+			"calssName": "col-md-6 col-lg-4 mix website",
+			"image": "../assets/images/portfolio/02_portfolio.jpg",
+			"title": "Website",
+			"alt": "02 Portfolio"
+        },
+		{
+			"id": 3,
+			"calssName": "col-md-6 col-lg-4 mix development",
+			"image": "../assets/images/portfolio/03_portfolio.jpg",
+			"title": "Development",
+			"alt": "03 Portfolio"
+        },
+		{
+			"id": 4,
+			"calssName": "col-md-6 col-lg-4 mix branding",
+			"image": "../assets/images/portfolio/04_portfolio.jpg",
+			"title": "Branding",
+			"alt": "04 Portfolio"
+        },
+		{
+			"id": 5,
+			"calssName": "col-md-6 col-lg-4 mix website",
+			"image": "../assets/images/portfolio/05_portfolio.jpg",
+			"title": "Website",
+			"alt": "05 Portfolio"
+        },
+		{
+			"id": 6,
+			"calssName": "col-md-6 col-lg-4 mix illustration",
+			"image": "../assets/images/portfolio/06_portfolio.jpg",
+			"title": "Illustration",
+			"alt": "06 Portfolio"
+        }
+    ] ,
+    "clients" : [
+        {
+			"id": 1,
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+			"image": "../assets/images/clients/01_clients.jpg",
+			"alt": "01 Clients",
+			"name": "Osama Bakri",
+			"details": "Front End"
+        },
+		{
+			"id": 2,
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+			"image": "../assets/images/clients/02_clients.jpg",
+			"alt": "02 Clients",
+			"name": "Amir Mohamed",
+			"details": "Back End"
+        },
+		{
+			"id": 3,
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+			"image": "../assets/images/clients/03_clients.jpg",
+			"alt": "03 Clients",
+			"name": "Mahmoud Begha",
+			"details": "7oroof Agency"
+        }
+    ] ,
+    "sponsors" : [
+        {
+			"id": 1,
+			"image": "../assets/images/sponsors/01_sponsors.png",
+			"alt": "01 Sponsors"
+        },
+		{
+			"id": 2,
+			"image": "../assets/images/sponsors/02_sponsors.png",
+			"alt": "02 Sponsors"
+        },
+		{
+			"id": 3,
+			"image": "../assets/images/sponsors/03_sponsors.png",
+			"alt": "03 Sponsors"
+        },
+		{
+			"id": 4,
+			"image": "../assets/images/sponsors/04_sponsors.png",
+			"alt": "04 Sponsors"
+        },
+		{
+			"id": 5,
+			"image": "../assets/images/sponsors/05_sponsors.png",
+			"alt": "05 Sponsors"
+        },
+		{
+			"id": 6,
+			"image": "../assets/images/sponsors/06_sponsors.png",
+			"alt": "06 Sponsors"
+        },
+		{
+			"id": 7,
+			"image": "../assets/images/sponsors/07_sponsors.png",
+			"alt": "07 Sponsors"
+        },
+		{
+			"id": 8,
+			"image": "../assets/images/sponsors/08_sponsors.png",
+			"alt": "08 Sponsors"
+        }
+    ] ,
+    "blog" : [
+        {
+			"id": 1,
+			"image": "../assets/images/blog/01_blog.jpeg",
+			"alt": "01 Blog",
+			"date": "May 5, 2022",
+			"tag": "Design",
+			"title": "The Best Tips To Make You Rich",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua..."
+        },
+		{
+			"id": 2,
+			"image": "../assets/images/blog/02_blog.jpeg",
+			"alt": "02 Blog",
+			"date": "May 20, 2022",
+			"tag": "Logo",
+			"title": "How To Create A Great Business",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua..."
+        },
+		{
+			"id": 3,
+			"image": "../assets/images/blog/03_blog.jpeg",
+			"alt": "03 Blog",
+			"date": "May 28, 2022",
+			"tag": "Branding",
+			"title": "Steps To Encourage Yourself To Work",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et dolore magna aliqua..."
+        }
+    ] ,
+    "contactMe" : [
+        {
+			"id": 1,
+			"icon": "lnr lnr-location",
+			"p1": "US - Los Angeles",
+			"p2": "15 Street Name Here"
+        },
+		{
+			"id": 1,
+			"icon": "lnr lnr-envelope",
+			"p1": "Email@example.com",
+			"p2": "Support@yourwebsite.com"
+        },
+		{
+			"id": 1,
+			"icon": "lnr lnr-phone-handset",
+			"p1": "00201912149318",
+			"p2": "00204911318912"
+        }
+    ]
+}

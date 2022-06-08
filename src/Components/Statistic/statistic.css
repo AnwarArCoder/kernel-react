@@ -1,0 +1,50 @@
+/* :: Statistic */
+.statistic {
+    padding-bottom: 70px;
+}
+.statistic .statistic-box {
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 30px;
+    position: relative;
+    background-image: url(./../../assets/images/statistic/01_statistic.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    top: 0;
+    left: 0;
+    background-size: cover;
+    width: 100%;
+    overflow: hidden;
+}
+.statistic .statistic-box .count {
+    font-size: 46px;
+    font-weight: 600;
+    line-height: 0.9;
+    color: #FFF;
+    display: inline-block;
+    position: relative;
+    z-index: 0;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+.statistic .statistic-box .count:after {
+    content: '';
+    position: absolute;
+    background-color: var(--seccolor);
+    width: 50px;
+    height: 70%;
+    z-index: -1;
+    right: 0;
+    top: 0;
+}
+.statistic .statistic-box .name-count {
+    margin-top: 25px;
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 24px;
+    position: relative;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+}
